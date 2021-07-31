@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>  
-  <build>
+  <build> 
     <finalName>java-web-project</finalName>
     <plugins>
       <plugin>
